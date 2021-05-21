@@ -3,6 +3,8 @@
 #+LANGUAGE: en
 #+OPTIONS: num:nil
 
+To be honest, I don't think I'll ever have time to do most of these. 
+
 * Projects
 ** Very minimal mpd frontend (GUI?)
 - Show album cover and song info on main screen.
