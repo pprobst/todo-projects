@@ -1,0 +1,24 @@
+#+STARTUP: overview
+#+TITLE: todo-projects
+#+LANGUAGE: en
+#+OPTIONS: num:nil
+
+* Projects
+** Very minimal mpd frontend (GUI?)
+- Show album cover and song info on main screen.
+- Queues, playlists.
+- Efficient search based on your music library directory.
+- No fancy stuff.
+** Imageboard "engine"
+** Window manager
+** Ecosystem/History simulator 
+- Nature and civilization.
+** Wolfenstein-like raycasting
+** A /complete/ roguelike game using entity-component-system (ECS)
+- I currently have an unfinished roguelike project.
+  
+* Learning
+** Becore more proficient in PyTorch.
+** Learn Lisp (for real).
+** Open/FreeBSD.
+** The ins-and-outs of cryptomarket.
