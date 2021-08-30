@@ -6,21 +6,22 @@
 To be honest, I don't think I'll ever have time to do most of these. 
 
 * Projects
-** Very minimal mpd frontend (GUI?)
-- Show album cover and song info on main screen.
-- Queues, playlists.
-- Efficient search based on your music library directory.
-- No fancy stuff.
-** Imageboard "engine"
-** Window manager
-** Ecosystem/History simulator 
-- Nature and civilization.
-** Wolfenstein-like raycasting
-** A /complete/ roguelike game using entity-component-system (ECS)
-- I currently have an unfinished roguelike project.
-  
+- Very minimal mpd frontend (GUI?)
+  - Show album cover and song info on main screen
+  - Queues, playlists
+  - Efficient search based on your music library directory
+  - No fancy stuff
+- Text/Imageboard engine
+- Image viewer
+- Simple status bar to use with window managers
+- Window manager
+- Wolfenstein-like raycasting
+- Simple late-90s 3D engine
+- Finish my roguelike
 * Learning
-** Becore more proficient in PyTorch.
-** Learn Lisp (for real).
-** Open/FreeBSD.
-** The ins-and-outs of cryptomarket.
+- Become more proficient in PyTorch and deep learning in general
+- Godot
+- Lisp (for real)
+- OpenBSD
+- Cryptomarket and blockchains
+
