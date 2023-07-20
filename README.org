@@ -18,10 +18,8 @@ To be honest, I don't think I'll ever have time to do most of these.
 - Wolfenstein-like raycasting
 - Simple late-90s 3D engine
 - Finish my roguelike
+- A 3D "Kings-Field-like" 
 * Learning
-- Become more proficient in PyTorch and deep learning in general
 - Godot
-- Lisp (for real)
-- OpenBSD
-- Cryptomarket and blockchains
+- Clojure
 
